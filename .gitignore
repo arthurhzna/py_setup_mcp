@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type Checker
+.mypy_cache/
+.pytype/
+
+# Ruff
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# MCP
+.mcp/
+
+# SQLite
+*.db
+*.sqlite3
+
+# Temporary Files
+tmp/
+temp/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python Version
+.python-version
+
+# Secrets
+secrets.json
+credentials.json
+service_account.json
+
+# Coverage
+.coverage.*
+coverage.xml
+
+# PyInstaller
+*.spec
+
+# Local settings
+settings.local.py
